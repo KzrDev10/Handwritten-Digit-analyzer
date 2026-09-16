@@ -3,7 +3,7 @@
 An interactive graphical interface built with Python's `turtle` module that bridges the gap between human input and machine learning. This application allows users to draw digits freehand on a digital canvas and feeds those strokes directly into a pre-trained Keras/TensorFlow neural network for real-time predictions.
 
 ## 🚀 Demo
-*(Drag and drop your .mp4 here on GitHub, or paste your image/GIF link here!)*
+![How the Turtle GUI works](Test.png)
 
 *The demo above showcases drawing a digit, triggering the prediction via the keyboard, and clearing the canvas to start over.*
 
